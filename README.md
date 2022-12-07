@@ -8,12 +8,12 @@ A unsupervised learning model which analyses playlists and gives recommendations
 We created this project to see if we can actually understand the musical patterns of a listener with their playlist as source and what factors are really useful in determining the taste and interest of the listener.
 
 ## Table of Contents
-1. [Next Steps](https://github.com/vamsiChelasani/musicRecommendationSystem/blob/readme-changes/README.md#next-steps)
-2. [Installation](https://github.com/vamsiChelasani/musicRecommendationSystem/blob/readme-changes/README.md#installation)
-3. [Run it](https://github.com/vamsiChelasani/musicRecommendationSystem/blob/readme-changes/README.md#run-it)
+1. [Next Steps](https://github.com/vamsiChelasani/musicRecommendationSystem/readme-changes/README.md#next-steps)
+2. [Installation](https://github.com/vamsiChelasani/musicRecommendationSystem/readme-changes/README.md#installation)
+3. [Run it](https://github.com/vamsiChelasani/musicRecommendationSystem/readme-changes/README.md#run-it)
 
 ### Next steps
-If do not have jupyter and python visit [Install Jupyter and Python](https://github.com/vamsiChelasani/musicRecommendationSystem/tree/readme-changes#instal-jupyter-and-python)
+If do not have jupyter and python visit [Install Jupyter and Python](https://github.com/vamsiChelasani/musicRecommendationSystem/readme-changes#instal-jupyter-and-python)
 
 If you have them, proceed with the below steps.
 
@@ -22,7 +22,7 @@ If you have them, proceed with the below steps.
    ```shell
    $ git clone https://github.com/vamsiChelasani/musicRecommendationSystem.git
    ````
-2. Visit the [Run It](https://github.com/vamsiChelasani/musicRecommendationSystem/blob/readme-changes/README.md#run-it) section
+2. Visit the [Run It](https://github.com/vamsiChelasani/musicRecommendationSystem/readme-changes/README.md#run-it) section
 
 ### Instal Jupyter and Python
 1. Clone this repo to get the .ipynb files
